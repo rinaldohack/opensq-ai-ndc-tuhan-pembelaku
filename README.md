@@ -1,4 +1,4 @@
-# [OpenSequencer Project][Artificial Intelligence] - NDC Worship: Tuhan Pembelaku ✨🎶
+# [OpenSequencer Project][AI] - NDC Worship: Tuhan Pembelaku ✨🎶
 
 **Original Song:**  
 [NDC Worship - Tuhan Pembelaku (Live)](https://www.youtube.com/watch?v=DHOCKYyr71Q)  
