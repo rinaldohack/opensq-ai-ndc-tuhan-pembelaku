@@ -29,10 +29,10 @@ Tujuannya untuk membantu penampilan live, latihan, atau produksi kreatif lainnya
 - **Digital Audio Workstation (DAW):**  
   Menggunakan [Ableton Live Suite 11.2.6](https://www.ableton.com/en/) untuk sequencing, mixing, dan editing audio.
   
-- **VST : **
+- **VST :**
   Kayaknya sih disini banyakan pake Nexus aja. Project sudah difreeze jadi bisa tetap kamu buka walau ga ada plugin-nya.
   
-- **Samples : **
+- **Samples :**
   Selain yang dibuat demucs, banyak dilayer pakai Yamaha PSR S970, PSR S950, MODX+. Sample dan loop juga kebanyakan dari KSHMR samples. Semua sample udah di include. 
 
 ## Lisensi & Penggunaan
