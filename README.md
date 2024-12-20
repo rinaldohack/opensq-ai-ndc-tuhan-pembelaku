@@ -15,6 +15,11 @@ Proyek ini adalah **sequencer** untuk lagu **"Tuhan Pembelaku"** dari NDC Worshi
 👉 **Catatan:** Sequencer ini **tidak dibuat persis** seperti versi aslinya.  
 Tujuannya untuk membantu penampilan live, latihan, atau produksi kreatif lainnya, bukan untuk meniru 100% orisinalnya.
 
+## Download 
+🔗 Project file ada [disini](https://github.com/rinaldohack/opensq-ai-ndc-tuhan-pembelaku/archive/refs/heads/main.zip)
+🔗 Mono sequencer ada [disini](https://github.com/rinaldohack/opensq-ai-ndc-tuhan-pembelaku/releases/tag/releases)
+🔗 Multitracks ada [disini](https://github.com/rinaldohack/opensq-ai-ndc-tuhan-pembelaku/releases/tag/multitracks-releases)
+
 ## Metode Pembuatan
 
 - **Pemrosesan Audio:**  
